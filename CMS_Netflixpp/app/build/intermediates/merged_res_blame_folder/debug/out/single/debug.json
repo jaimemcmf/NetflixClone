@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_user_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/user_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/xml_network_security_config.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_past_uploads_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxhdpi/past_uploads_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_netflix_top.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/netflix_top.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_user_icon_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/user_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_ic_laucher_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/ic_laucher_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_past_uploads_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-mdpi/past_uploads_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_past_uploads_icon.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-anydpi-v26/past_uploads_icon.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_ic_laucher_icon_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-anydpi-v26/ic_laucher_icon_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_past_uploads_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-hdpi/past_uploads_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_ic_laucher_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xhdpi/ic_laucher_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_ic_laucher_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxxhdpi/ic_laucher_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_ic_laucher_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xhdpi/ic_laucher_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_fragment_user.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/menu_footer_menu.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/menu/footer_menu.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_ic_laucher_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxhdpi/ic_laucher_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_ic_laucher_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-mdpi/ic_laucher_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_past_uploads_icon_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-anydpi-v26/past_uploads_icon_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_upload_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/upload_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_past_uploads_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xhdpi/past_uploads_icon_round.png"
+    },
+    {
+        "merged": "com.example.cms_netflixpp.app-merged_res-32:/layout_movie_row.xml.flat",
+        "source": "com.example.cms_netflixpp.app-main-34:/layout/movie_row.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_ic_laucher_icon.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-anydpi-v26/ic_laucher_icon.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_past_uploads_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-mdpi/past_uploads_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_fragment_register.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_past_uploads_icon_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/past_uploads_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_past_uploads_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-hdpi/past_uploads_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_fragment_upload.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/fragment_upload.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_ic_laucher_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-hdpi/ic_laucher_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_fragment_login.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_past_uploads_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxhdpi/past_uploads_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_past_uploads_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xhdpi/past_uploads_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_past_uploads_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxxhdpi/past_uploads_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxhdpi_ic_laucher_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxhdpi/ic_laucher_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_past_uploads_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/drawable/past_uploads_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_activity_videos.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/activity_videos.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-hdpi_ic_laucher_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-hdpi/ic_laucher_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_movie_row.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/movie_row.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_fragment_home.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_ic_laucher_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxxhdpi/ic_laucher_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-mdpi_ic_laucher_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-mdpi/ic_laucher_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/drawable_rounded_edittext.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/mipmap-xxxhdpi_past_uploads_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-debug-33:/mipmap-xxxhdpi/past_uploads_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.cms_netflixpp.app-main-34:/layout/activity_main.xml"
+    }
+]

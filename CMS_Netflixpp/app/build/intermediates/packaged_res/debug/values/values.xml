@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_laucher_icon_background">#000000</color>
+    <color name="medium_gray">#808080</color>
+    <color name="netflix_background">#303030</color>
+    <color name="netflix_red">#E50914</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CMSNetflix++</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id</string>
+    <string name="joined_date">Joined Date</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="send">Send</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="title">Title</string>
+    <string name="upload_thumbnail">Upload Thumbnail</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="username">Username</string>
+    <style name="DeleteDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@color/netflix_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorAccent">@color/white</item>
+        <item name="android:positiveButtonText">@color/netflix_red</item>
+        <item name="radioButtonStyle">@color/white</item>
+    </style>
+    <style name="Theme.CMS_Netflixpp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.Videos" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+</resources>

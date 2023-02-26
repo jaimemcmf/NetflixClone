@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_icon_rounded_foreground.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/ic_launcher_icon_rounded_foreground.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_user_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/user_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_home_icon.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/home_icon.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_home_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/home_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_upload_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_user_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/user_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_upload_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/upload_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_fragment_home.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_user_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_icon_rounded.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/ic_launcher_icon_rounded.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_upload_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_user_icon.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/user_icon.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_home_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/home_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_rounded_edittext.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_home_icon_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/home_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_home_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/home_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_fragment_user.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_icon_rounded_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/ic_launcher_icon_rounded_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_user_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/user_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_upload_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_movie_row.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/movie_row.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-32:/layout_fragment_register.xml.flat",
+        "source": "com.example.myapplication.app-main-34:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_home_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/home_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_upload_icon_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/upload_icon_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_netflix_top.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/netflix_top.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_upload_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_user_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_upload_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/upload_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_upload_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/upload_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_icon_rounded.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/ic_launcher_icon_rounded.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_upload_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_activity_start.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_icon_rounded_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/ic_launcher_icon_rounded_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_fragment_register.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_icon_rounded.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/ic_launcher_icon_rounded.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_icon_rounded.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/ic_launcher_icon_rounded.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_upload_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/upload_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_home_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/home_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_icon_rounded_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/ic_launcher_icon_rounded_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_icon_rounded_foreground.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/ic_launcher_icon_rounded_foreground.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_icon_rounded_foreground.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/ic_launcher_icon_rounded_foreground.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_home_icon_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/home_icon_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_upload_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/upload_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_icon_rounded_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/ic_launcher_icon_rounded_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_netflix.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/netflix.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_user_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/user_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_user_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_home_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/home_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_user_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_activity_play.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_play.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_home_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/home_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_user_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/user_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_fragment_login.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_upload_icon.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/upload_icon.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_home_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xhdpi/home_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_icon_rounded_foreground.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/ic_launcher_icon_rounded_foreground.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_user_icon_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/user_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_user_icon_foreground.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/user_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_upload_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/upload_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_icon_rounded_foreground.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/ic_launcher_icon_rounded_foreground.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_home_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/home_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_activity_videos.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_videos.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_icon_rounded_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxhdpi/ic_launcher_icon_rounded_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_home_icon_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/home_icon_round.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_icon_rounded.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/ic_launcher_icon_rounded.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_netflix.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/netflix.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/xml_network_security_config.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_icon_rounded.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/ic_launcher_icon_rounded.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_user_icon_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-anydpi-v26/user_icon_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_splash_bg.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/menu_footer_menu.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/menu/footer_menu.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_upload_icon_background.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/drawable/upload_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_user_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-mdpi/user_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_home_icon.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-hdpi/home_icon.png"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_icon_rounded_round.png.flat",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-debug-33:/mipmap-xxxhdpi/ic_launcher_icon_rounded_round.png"
+    }
+]

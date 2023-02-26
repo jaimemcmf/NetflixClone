@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/footer_home"
+        android:iconTint="@color/white"
+        android:icon="@drawable/past_uploads_icon_foreground" />
+
+    <item
+        android:title="Home"
+        android:id="@+id/footer_upload"
+        android:iconTint="@color/white"
+        android:icon="@drawable/upload_icon_foreground" />
+
+    <item
+        android:title="User"
+        android:id="@+id/footer_user"
+        android:iconTint="@color/white"
+        android:icon="@drawable/user_icon_foreground"/>
+</menu>

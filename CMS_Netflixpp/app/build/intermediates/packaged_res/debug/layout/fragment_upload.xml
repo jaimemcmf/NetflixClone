@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentUpload"
+    android:backgroundTint="@color/netflix_background">
+
+    <EditText
+        android:id="@+id/fileName"
+        android:layout_width="282dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="200dp"
+        android:autofillHints="name"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="@string/title"
+        android:inputType="textNoSuggestions"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <Button
+        android:id="@+id/uploadv"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:textColor="@color/white"
+        android:text="@string/upload_video"
+        tools:ignore="MissingConstraints"
+        android:backgroundTint="@color/black"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/txt_path"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="415dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/uploadt"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:text="@string/upload_thumbnail"
+        android:layout_marginTop="450dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        tools:ignore="MissingConstraints"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/thumbnail_path"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="515dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:text="@string/send"
+        android:layout_marginTop="350dp"
+        tools:ignore="MissingConstraints"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/netflix_red"
+        android:textColor="@color/white"/>
+</FrameLayout>

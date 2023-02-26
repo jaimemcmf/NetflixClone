@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Netflix++</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="joined_date">Joined Date</string>
+    <string name="username">Username</string>
+    <string name="id">Id</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="passwords_do_not_match">Passwords do not match.</string>
+    <string name="password_connot_be_empty">Neither the username or password can be empty</string>
+</resources>

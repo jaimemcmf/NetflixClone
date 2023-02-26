@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+
+  <groupId>com.mykong</groupId>
+  <artifactId>JerseyJetty</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <java.version>17</java.version>
+    <junit.version>5.4.0</junit.version>
+    <jsonassert.version>1.5.0</jsonassert.version>
+    <jersey.version>3.0.2</jersey.version>
+  </properties>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.glassfish.jersey</groupId>
+        <artifactId>jersey-bom</artifactId>
+        <version>${jersey.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.mariadb.jdbc</groupId>
+        <artifactId>mariadb-java-client</artifactId>
+        <version>3.0.8</version>
+      </dependency>
+
+      <dependency>
+        <groupId>com.mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.31</version>
+      </dependency>
+      <dependency>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>3.4.2</version>
+      </dependency>
+
+
+      <dependency>
+        <groupId>com.sun.jersey.contribs</groupId>
+        <artifactId>jersey-multipart</artifactId>
+        <version>1.19.4</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.glassfish.jersey.media</groupId>
+        <artifactId>jersey-media-multipart</artifactId>
+        <version>3.1.0</version>
+      </dependency>
+
+      <dependency>
+        <groupId>jakarta.ws.rs</groupId>
+        <artifactId>jakarta.ws.rs-api</artifactId>
+        <version>3.1.0</version>
+      </dependency>
+
+      <!-- Logging API -->
+      <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.4.4</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20220924</version>
+      </dependency>
+
+
+      <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
+        <version>2.14.0</version>
+      </dependency>
+
+      <dependency>
+        <groupId>io.jsonwebtoken</groupId>
+        <artifactId>jjwt-api</artifactId>
+        <version>0.11.5</version>
+      </dependency>
+
+
+      <dependency>
+        <groupId>net.bramp.ffmpeg</groupId>
+        <artifactId>ffmpeg</artifactId>
+        <version>0.7.0</version>
+      </dependency>
+
+      <dependency>
+        <groupId>com.google.cloud</groupId>
+        <artifactId>google-cloud-storage</artifactId>
+        <version>2.15.1</version>
+      </dependency>
+
+
+
+
+
+    </dependencies>
+  </dependencyManagement>
+
+  <dependencies>
+
+    <!-- Jetty -->
+    <dependency>
+      <groupId>org.glassfish.jersey.containers</groupId>
+      <artifactId>jersey-container-jetty-http</artifactId>
+    </dependency>
+<!-- Mysql Driver -->
+    <dependency>
+      <groupId>com.mysql</groupId>
+      <artifactId>mysql-connector-j</artifactId>
+      <version>8.0.31</version>
+    </dependency>
+
+    <!-- Jersey DI and core-->
+    <dependency>
+      <groupId>org.glassfish.jersey.inject</groupId>
+      <artifactId>jersey-hk2</artifactId>
+    </dependency>
+
+    <!-- Jersey Multipart -->
+    <dependency>
+      <groupId>com.sun.jersey.contribs</groupId>
+      <artifactId>jersey-multipart</artifactId>
+      <version>1.19.4</version>
+    </dependency>
+
+
+    <!-- Jetty 11 needs Servlet API 5 -->
+    <!-- java.lang.NoClassDefFoundError: jakarta/servlet/ServletInputStream -->
+    <dependency>
+      <groupId>jakarta.servlet</groupId>
+      <artifactId>jakarta.servlet-api</artifactId>
+      <version>5.0.0</version>
+    </dependency>
+
+    <!-- add jackson to support json -->
+    <dependency>
+      <groupId>org.glassfish.jersey.media</groupId>
+      <artifactId>jersey-media-json-jackson</artifactId>
+    </dependency>
+
+    <!-- Need this to hide warning for jakarta.activation.DataSource -->
+    <dependency>
+      <groupId>jakarta.activation</groupId>
+      <artifactId>jakarta.activation-api</artifactId>
+      <version>2.0.1</version>
+    </dependency>
+
+    <!-- JUnit 5 -->
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-params</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+    <!-- test json data -->
+    <dependency>
+      <groupId>org.skyscreamer</groupId>
+      <artifactId>jsonassert</artifactId>
+      <version>${jsonassert.version}</version>
+      <scope>test</scope>
+    </dependency>
+<!-- forms -->
+    <dependency>
+      <groupId>org.glassfish.jersey.media</groupId>
+      <artifactId>jersey-media-multipart</artifactId>
+    </dependency>
+
+
+    <!-- Logging API -->
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.4.4</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20220924</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>2.14.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.vaadin.external.google</groupId>
+      <artifactId>android-json</artifactId>
+      <version>0.0.20131108.vaadin1</version>
+      <scope>compile</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>io.jsonwebtoken</groupId>
+      <artifactId>jjwt-api</artifactId>
+      <version>0.11.5</version>
+    </dependency>
+
+    <dependency>
+      <groupId>net.bramp.ffmpeg</groupId>
+      <artifactId>ffmpeg</artifactId>
+      <version>0.7.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-storage</artifactId>
+      <version>2.15.1</version>
+    </dependency>
+
+
+
+  </dependencies>
+
+  <build>
+    <finalName>jersey-jetty</finalName>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <source>15</source>
+          <target>15</target>
+        </configuration>
+      </plugin>
+
+      <!-- JUnit 5 need at least 2.22.0 to support -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.0.0-M5</version>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.2.0</version>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <classpathPrefix>lib/</classpathPrefix>
+              <mainClass>com.mykong.Main</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+
+      <!-- copy project dependencies -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <version>3.1.2</version>
+        <executions>
+          <execution>
+            <id>copy-dependencies</id>
+            <phase>package</phase>
+            <goals>
+              <goal>copy-dependencies</goal>
+            </goals>
+            <configuration>
+              <!-- exclude junit, we need runtime dependency only -->
+              <includeScope>runtime</includeScope>
+              <outputDirectory>${project.build.directory}/lib/</outputDirectory>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+
+    </plugins>
+
+
+  </build>
+
+  <profiles>
+    <profile>
+      <id>default</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <properties>
+        <jdbc.user>root</jdbc.user>
+        <jdbc.password>rootPassword</jdbc.password>
+        <jdbc.url>jdbc:mysql://localhost:3306/{databaseName}</jdbc.url>
+        <jdbc.driver>com.mysql.cj.jdbc.Driver</jdbc.driver>
+      </properties>
+    </profile>
+  </profiles>
+
+
+
+
+
+</project>

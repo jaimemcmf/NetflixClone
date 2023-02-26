@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_icon_rounded_background">#000000</color>
+    <color name="medium_gray">#808080</color>
+    <color name="netflix_background">#303030</color>
+    <color name="netflix_red">#E50914</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="app_name">Netflix++</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id</string>
+    <string name="joined_date">Joined Date</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="password_connot_be_empty">Neither the username or password can be empty</string>
+    <string name="passwords_do_not_match">Passwords do not match.</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="username">Username</string>
+    <style name="DeleteDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@color/netflix_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorAccent">@color/white</item>
+        <item name="android:positiveButtonText">@color/netflix_red</item>
+        <item name="radioButtonStyle">@color/white</item>
+    </style>
+    <style name="ExoMediaButton.Next">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="ExoMediaButton.Previous">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="Theme.Main" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/netflix_background</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+    <style name="Theme.Splash" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+    <style name="Theme.Start" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

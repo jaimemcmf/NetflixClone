@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/fragment_user.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/activity_play.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_play.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/fragment_login.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-31:/layout/fragment_register.xml",
+        "source": "com.example.myapplication.app-main-34:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/fragment_home.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/movie_row.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/movie_row.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/fragment_register.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/activity_videos.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_videos.xml"
+    },
+    {
+        "merged": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-mergeDebugResources-31:/layout/activity_start.xml",
+        "source": "/Users/jaimemcmf/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/activity_start.xml"
+    }
+]
